@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb08bd4f49df47c4fad4b10e275d992e, type: 3}
+  m_Name: BoomCard
+  m_EditorClassIdentifier: 
+  cardName: BoomCard
+  background: {fileID: 21300000, guid: 949932d6487cc4e67be27ce022f665e7, type: 2}
+  artSprite: {fileID: 21300000, guid: f6317596a12244aa0aa05f6a5c386cc3, type: 2}
+  back: {fileID: 21300000, guid: 978126c81bb4244de95fca3019d07ab3, type: 2}
+  minpoint: 5
+  maxpoint: 6
+  musicFX: {fileID: 0}
+  victoryDescription: "\u60F3\u8EB2\uFF1F\u6CA1\u7528\u7684\uFF01\u542C\u5230\u8FD9\u9707\u8033\u6B32\u804B\u7684\u54CD\u58F0\u4E86\u561B\uFF01"
+  defeatDescription: "\u4EC0\u4E48\u58F0\u97F3\uFF01\u5730\u7403\u8981\u6BC1\u706D\u4E86\u5417\u2026\u2026"
+  tieDescription: "\u5207\uFF0C\u4E0B\u6B21\u4F60\u7684\u8111\u888B\u53EF\u80FD\u4F1A\u53D8\u6210\u9AB7\u9AC5\u5934\u70B8\u5F39\uFF01"
